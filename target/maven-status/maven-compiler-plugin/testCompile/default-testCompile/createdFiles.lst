@@ -1,0 +1,10 @@
+demo1\DefinitionTestSuite.class
+demo1\pages\homePage.class
+demo1\steps\checkoutPagStep.class
+demo1\steps\homePageStep.class
+demo1\pages\productPage.class
+demo1\steps\serenity\EndUserSteps.class
+demo1\steps\loginPageStep.class
+demo1\pages\checkoutPage.class
+demo1\pages\loginPage.class
+demo1\steps\productPageStep.class
